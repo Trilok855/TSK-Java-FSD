@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Fibonacci{
+public class Fibonacci{
 	public static void main(String[] args) {
 		Scanner scan=new Scanner(System.in);
 		System.out.println("Enter no of terms required:");
