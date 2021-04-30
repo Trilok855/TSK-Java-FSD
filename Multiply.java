@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Multiply{
+public class Multiply{
 	public static void main(String[] args) {
 		Multiply mul=new Multiply();
 		int num1=mul.input();
